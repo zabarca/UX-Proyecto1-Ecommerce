@@ -16,4 +16,4 @@ Por estas razones nos dimos a la tarea de **buscar un posible cliente** que pudi
 
 ## Nuestro cliente
 ### Dulces Ilusiones - *Pastelería Boutique*
-![DulcesIluciones](images/logocompleto.png)
+![DulcesIluciones](images/logo.png)
