@@ -36,6 +36,8 @@ Para poder conocer a nuestros usuarios utilizamos la técnica User persona.
 
 El resultado es el siguiente:
 
+![userpersona](images/userpersona.png)
+
 https://drive.google.com/file/d/13QUHnYRXCee-ZS2nHpM-D75KO7uNCoSP/view?usp=sharing
 
 ### Investigación de mercado
