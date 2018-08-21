@@ -49,4 +49,6 @@ Al realizar una entrevista a profundidad con la empresaria pudimos observar lo d
 La pasteleria lleva un año en el mercado mexicano y ha ido incrementando sus ventas por lo cual ser solo ella por el momento no se da abasto sin embargo el contratar una nueva perosna que le ayude con la scotizaciones le conlleva un gasto que por el moemnto no puedo cubrir.
 Recibe al rededor de 15 personas por día, al probar sus clientes los pasteles se vuelven en usuarios recurrentes; a lo largo de la semana llega a tener de entre 3 y 5 clientes nuevos.La mayoria de las cotizaciones son porque van a la tienda o bien por redes social más nunca entran a la página a observar los productos. Sus clientes pueden ser de diferentes áreas de la republica mexicana van desde la colonia roma hasta la colonia iztapalapa.
 
+Ella cree que un ecomrce le podria ayudar a que mas gente conozca sus productos y pueda cotizar de una manera rápida sin esperar tener que esperar un mail o bien un lapso par apoder contestar la cotizacion, le gustari aincluir algunos precios aproximados ya que todo varia dependiendo del pastel y del modelo.
+
 #### Insigths
