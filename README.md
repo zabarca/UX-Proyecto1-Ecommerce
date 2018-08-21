@@ -20,7 +20,7 @@ Por estas razones nos dimos a la tarea de **buscar un posible cliente** que pudi
 
 ![DulcesIluciones](images/logo.png)
 ![DulcesIluciones](images/localizacion.png)
-  
+
 
 ### Objetivos de la empresa con el E-commerce.
 
@@ -36,7 +36,7 @@ Para poder conocer a nuestros usuarios utilizamos la técnica User persona.
 
 El resultado es el siguiente:
 
-![userpersona](images/userpersona.png)
+![userpersona](images/up.png)
 
 https://drive.google.com/file/d/13QUHnYRXCee-ZS2nHpM-D75KO7uNCoSP/view?usp=sharing
 
@@ -56,7 +56,7 @@ https://docs.google.com/spreadsheets/d/1DNVHWcVN5E3stmnuaPCE90LUY42tcgl6J_xmufCR
 
 * Este modelo pasado nso podra yaudar a ver como es que agilizan el proceso y ya no les lleva tnsto tiempo en una cotización.
 
- 
+
 #### Entendimiento del problema
 
 Al realizar una entrevista a profundidad con la empresaria pudimos observar lo difícil que es llevar la cotización de un producto ya que solo el 50% de las cotizaciones son realizadas, el problema esta en que ella es la única que puede dar el presupuestos ya que ella es la repostera, un e-commerce le ayudaría a poder realizar de manera mas rápida una cotización y así poder concentrarse en el sabor y la calidad de sus pasteles.
