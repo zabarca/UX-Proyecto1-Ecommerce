@@ -32,7 +32,7 @@ El resultado es el siguiente:
 https://drive.google.com/file/d/13QUHnYRXCee-ZS2nHpM-D75KO7uNCoSP/view?usp=sharing
 
 ### Investigación de mercado
-
+![imagenes]("images/postres.png")
 
 #### Benchmarck
 El benchmarck a continuación nos ayudara para poder observar la competencia y los modelos que tiene, los que nos pueden funcionar.
