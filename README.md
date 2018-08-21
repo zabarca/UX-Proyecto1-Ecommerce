@@ -43,4 +43,10 @@ https://docs.google.com/spreadsheets/d/1DNVHWcVN5E3stmnuaPCE90LUY42tcgl6J_xmufCR
 * El modelo que maneja la panedería "La Esperanza" es muy grande y cuenta con diferentes formas de pago. Y una logistica en la que pide un minimo de compra.
 * Este modelo pasado nso podra yaudar a ver como es que agilizan el proceso y ya no les lleva tnsto tiempo en  una cotización.
 
+#### Entendimiento del problema
+Al realizar una entrevista a profundidad con la empresaria pudimos observar lo dificil que es llevar la cotización de un producto ya que solo el 50% d elas cotizaciones son realizadas, el problema esta en que ella es la unica que puede dar el presupuestos ya que ella es la repostera, un e-commerce le ayudaria a poder realizar de manera mas rápida una cotización y asi poder concentrarse en el sabor y la calidad de sus pasteles.
+
+La pasteleria lleva un año en el mercado mexicano y ha ido incrementando sus ventas por lo cual ser solo ella por el momento no se da abasto sin embargo el contratar una nueva perosna que le ayude con la scotizaciones le conlleva un gasto que por el moemnto no puedo cubrir.
+Recibe al rededor de 15 personas por día, al probar sus clientes los pasteles se vuelven en usuarios recurrentes; a lo largo de la semana llega a tener de entre 3 y 5 clientes nuevos.La mayoria de las cotizaciones son porque van a la tienda o bien por redes social más nunca entran a la página a observar los productos. Sus clientes pueden ser de diferentes áreas de la republica mexicana van desde la colonia roma hasta la colonia iztapalapa.
+
 #### Insigths
