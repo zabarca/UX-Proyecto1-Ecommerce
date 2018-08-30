@@ -34,11 +34,9 @@ Por estas razones nos dimos a la tarea de **buscar un posible cliente** que pudi
 
 Para poder conocer a nuestros usuarios utilizamos la técnica User persona.
 
-El resultado es el siguiente:
+[Consultar User Persona](https://drive.google.com/open?id=1Kp1sXuHOHK-YhXRuCAFpxqA_v-0nfutP "User Persona pdf")
 
-![userpersona](images/up.png)
 
-https://drive.google.com/file/d/13QUHnYRXCee-ZS2nHpM-D75KO7uNCoSP/view?usp=sharing
 
 ### Investigación de mercado
 
@@ -48,7 +46,8 @@ https://drive.google.com/file/d/13QUHnYRXCee-ZS2nHpM-D75KO7uNCoSP/view?usp=shari
 
 El benchmarck a continuación nos ayudara para poder observar la competencia y los modelos que tiene, los que nos pueden funcionar.
 
-https://docs.google.com/spreadsheets/d/1DNVHWcVN5E3stmnuaPCE90LUY42tcgl6J_xmufCRZJA/edit?usp=sharing
+[Ver Benchmark](https://drive.google.com/file/d/1FKBREsh0RqHN4Eggage0fnXC1O_B2fTv/view?usp=sharing "Benchmark pdf")
+
 
 * Como pudimos observar el modelo de la tienda merengue merengue cuenta con una excelente logisitica para poder repartir los cupcakes a personas que trabajan en coorporativos.
 
@@ -74,6 +73,8 @@ Ella cree que un ecommerce le podría ayudar a que mas gente conozca sus product
 ![fotografias](images/evidencia6.png)
 
 #### Customer Journey Map
+
+[Ver Customer Journey](https://drive.google.com/open?id=1ZRoprLWtqbCdPnds5UIqaZ0qHUuCNGja "Customer Journey pdf")
 
 ![offline](images/offline.png)
 ![online](images/online.png)
