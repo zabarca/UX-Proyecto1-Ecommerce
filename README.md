@@ -1,72 +1,30 @@
-# Propuesta de E-commerce
+## UX Proyecto 1
 
-### Nuestro cliente
+# Propuesta de e-commerce
 
-**“Dulces Ilusiones”** pastelería boutique es el taller de *Alejandra Velasco* donde diseña los sueños de sus clientes. En este lugar se realizan de manera artesanal espectaculares pasteles, cupckaes, galletas y exquisitas mesas de dulces para todo tipo de celebraciones.
+### Para empezar ...
+#### ¿Que es el e-commerce?
 
-![Logotipo](images/logo.png)
-![Localizacion](images/localizacion.png)
+El e-commerce o comercio electrónico es un método de compraventa de bienes, productos o servicios valiéndose de internet como medio, es decir, comerciar de manera online.
 
-#### A continuación nuestro proceso de trabajo se adapta a la filosofía del diseño centrado en el usuario dividido en las siguientes fases:
-
-![Metodologia](images/metodologia.png)
-
-## Investigación y estrategia :memo:
-
-### Objetivo de la empresa
-
-El principal objetivo de Alejandra Velasco con dulces ilusiones es brindar a sus clientes la mejor experiencia en el procesos de deleitar el paladar, al tiempo de hacer crecer su negocio, llegar a nuevo público y por ende aumentar sus ventas.
-
-### Problema
-Alejandra como CEO de dulces ilusiones lleva a cabo casi todo el proceso de venta y diseño de pasteles. Los siguientes factores son los motivos de las dificultades:
-
-1. Cuenta con un proceso de venta lento.
-2. Tiene una página web que no conocen ni utilizan sus clientes.
-3. No muestra precios en la página web y pierde tiempo realizando cotizaciones en clientes que al final no están interesados o cotizaciones que ya han sido realizadas y las tiene que volver a efectuar.
-4. La información en sus sitio esta des-actualizada y no cuenta con arquitectura de la información.
-
-### Nuestra Propuesta
-Al analizar las dificultades de Alejandra, ideamos crear una plataforma que le pueda facilitar el proceso de venta así como llegar a clientes potenciales. Asi mismo agilizar el proceso de cotización al mostrar los precios directamente en la página con posibilidad pe personalizar el pedido.
+Esta modalidad de comercio se ha vuelto muy popular con el auge de Internet y la banda ancha, así como por el creciente interés de los usuarios a comprar por Internet.
 
 
-
- - Crear una base de datos de clientes
- - Ofrecer a los clientes una nueva opción de contacto sin necesidad de acudir a la tienda física.
- - Segmentar a los clientes desde un primer contacto.
- - Lanzar novedades.
- - Engagement por la atención personalizada.
- - Generar clientes recurrentes.
- - Aumentar su ticket promedio.
- - Generar un ratio de conversión.(Facebook e instagram a e-commerce)
- 
-### User persona
-Para poder conocer a nuestros usuarios utilizamos la técnica User Persona.
-Que hiciste?
-Que obtuviste?
-
-El resultado es el siguiente: 
-![userpersona](images/userpersona.png)
-
-### Empathy Map
+> Aumentar **las ventas es siempre un desafío para cualquier emprendimiento**. Para aquellos que tienen una tienda física dar los primeros pasos online requiere de un estudio minucioso y de una inversión mínima para empezar el emprendimiento de forma sustentable.
 
 
-![offline](images/offline.png)
-![online](images/online.png)
+## Nuestro cliente :cake:
 
-### Benchmark
+**Alejandra Velasco** diseñadora de sueños en la pastelería boutique **"Dulces Ilusiones”** nos a contratado con el propósito de brindar a sus clientes la mejor experiencia en el proceso de compra, así como hacer crecer su negocio, llegar a nuevo público y por ende aumentar sus ventas.
 
-### Documentación de técnicas
+![logo](/images/logo.png)
 
-## Organización :chart_with_upwards_trend:
-User flow
-Arquitectura de la información
-Card sorting
-Flowchart
-## Diseño :art:
-Wireframes baja fidelidad
-Wireframes alta fidelidad
-Prototipo clickleable
-## Validación :heavy_check_mark:
-Observación
-Problemas de uso
-Corrección de errores
+### Investigación y estrategia: [ver proceso de documentación en google site](https://sites.google.com/view/e1comerce/p%C3%A1gina-principal)
+
+### Propuesta de diseño: [prototipo de alta fidelidad](https://marvelapp.com/4363gje/screen/47337421)
+
+### Video de loom: [video de documentación](https://www.useloom.com/share/506bfc0bbf994f7aa2d743486e062c22)
+
+### Medium: [post en medium](https://medium.com/@sofaamouroso/nuestro-primer-e-commerce-60a96c76775b)
+
+### Presentación: [storytelling](https://docs.google.com/presentation/d/1CtmKtfDCmq-uXsbafL9mLtgqU6YIVMPXBQV2tWETfVQ/edit#slide=id.g4155aa4a16_1_0)
